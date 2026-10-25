@@ -1,6 +1,6 @@
 cask "pulley" do
-  version "1.11.0"
-  sha256 "71fa66397892cec255d3062efbb6c67b5530806cf32fd40a665c429ee751aca5"
+  version "1.12.0"
+  sha256 "cc227093370dcdd5d572ffd4e9e0724131f1f37762b06f651257f844b23de658"
 
   url "https://github.com/moh-hit/pulley/releases/download/v#{version}/Pulley-#{version}.dmg"
   name "Pulley"
